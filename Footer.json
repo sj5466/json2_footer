@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data":{
+    "count":1,
+    "number":1,
+    "footerInfor":[
+      {
+        "id":0,
+        "title":"회사소개",
+        "info1":"브랜드 소개",
+        "info2":"글로벌 뚜레쥬르",
+        "info3":"매장안내",
+        "info4":"기사채용안내",
+        "info5":"창업안내"
+      },{
+        "id":"1",
+        "title":"공지사항",
+        "info1":"할인혜택",
+        "info2":"고객센터",
+        "info3":"1:1 문의",
+        "info4":"알림/소식",
+        "info5":"이벤트당첨"
+      },{
+        "id":"2",
+        "title":"처리방침",
+        "info1":"이용약관",
+        "info2":"개인정보처리방침",
+        "info3":"위치기반서비스 이용약관",
+        "info4":"이메일 무단 수집 거부"
+       },{
+        "id":"3",
+        "title":"법적조치",
+        "info1":"윤리신고센터",
+        "info2":"법적고지"
+      }
+    ]
+  }
+}
